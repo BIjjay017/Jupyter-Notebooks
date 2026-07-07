@@ -11,3 +11,4 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [Naive_Bayes_Sentiment_Classification.ipynb](Notebooks/Naive_Bayes_Sentiment_Classification.ipynb)
 - [PCA using wince csv.ipynb](Notebooks/PCA%20using%20wince%20csv.ipynb)
 - [student lifestyle.ipynb](Notebooks/student%20lifestyle.ipynb)
+- [Fuzzy logic implementation.ipynb](Notebooks/Fuzzy%20logic%20implementation.ipynb)

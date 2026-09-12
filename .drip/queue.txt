@@ -1,0 +1,19 @@
+﻿# Notebooks waiting to be added, 3 per run. Lines starting with # are ignored.
+# Format: <source path on this laptop>
+C:\Users\Lenovo\DeepLearning by NVIDIA\05a_doggy_door.ipynb
+C:\Users\Lenovo\DeepLearning by NVIDIA\05b_presidential_doggy_door.ipynb
+C:\Users\Lenovo\DeepLearning by NVIDIA\06_nlp.ipynb
+C:\Users\Lenovo\DeepLearning by NVIDIA\07_assessment.ipynb
+C:\Users\Lenovo\DSS\lab 1\Suspicious Transaction Detection.ipynb
+C:\Users\Lenovo\Clustering.ipynb
+C:\Users\Lenovo\ensembleLearning.ipynb
+C:\Users\Lenovo\Association_mining_lab.ipynb
+C:\Users\Lenovo\Day 7 KNN.ipynb
+C:\Users\Lenovo\Day 6 Logistic Regression.ipynb
+C:\Users\Lenovo\Data Warehouse Lab.ipynb
+C:\Users\Lenovo\musicRocommendationSystem.ipynb
+C:\Users\Lenovo\Project on Amazon Dataset.ipynb
+C:\Users\Lenovo\Predict Flight Price.ipynb
+C:\Users\Lenovo\DWDM\Flights_EDA.ipynb
+C:\Users\Lenovo\screenTime.ipynb
+C:\Users\Lenovo\visualization_list_class.ipynb

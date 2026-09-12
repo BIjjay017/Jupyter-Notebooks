@@ -12,3 +12,6 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [PCA using wince csv.ipynb](Notebooks/PCA%20using%20wince%20csv.ipynb)
 - [student lifestyle.ipynb](Notebooks/student%20lifestyle.ipynb)
 - [Fuzzy logic implementation.ipynb](Notebooks/Fuzzy%20logic%20implementation.ipynb)
+- [02_asl.ipynb](Notebooks/02_asl.ipynb)
+- [03_asl_cnn.ipynb](Notebooks/03_asl_cnn.ipynb)
+- [04a_asl_augmentation.ipynb](Notebooks/04a_asl_augmentation.ipynb)

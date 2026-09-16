@@ -15,3 +15,5 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [02_asl.ipynb](Notebooks/02_asl.ipynb)
 - [03_asl_cnn.ipynb](Notebooks/03_asl_cnn.ipynb)
 - [04a_asl_augmentation.ipynb](Notebooks/04a_asl_augmentation.ipynb)
+- [05a_doggy_door.ipynb](Notebooks/05a_doggy_door.ipynb)
+- [05b_presidential_doggy_door.ipynb](Notebooks/05b_presidential_doggy_door.ipynb)

@@ -17,3 +17,5 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [04a_asl_augmentation.ipynb](Notebooks/04a_asl_augmentation.ipynb)
 - [05a_doggy_door.ipynb](Notebooks/05a_doggy_door.ipynb)
 - [05b_presidential_doggy_door.ipynb](Notebooks/05b_presidential_doggy_door.ipynb)
+- [06_nlp.ipynb](Notebooks/06_nlp.ipynb)
+- [07_assessment.ipynb](Notebooks/07_assessment.ipynb)

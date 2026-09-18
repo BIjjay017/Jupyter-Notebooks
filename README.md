@@ -19,3 +19,5 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [05b_presidential_doggy_door.ipynb](Notebooks/05b_presidential_doggy_door.ipynb)
 - [06_nlp.ipynb](Notebooks/06_nlp.ipynb)
 - [07_assessment.ipynb](Notebooks/07_assessment.ipynb)
+- [Suspicious Transaction Detection.ipynb](Notebooks/Suspicious%20Transaction%20Detection.ipynb)
+- [Clustering.ipynb](Notebooks/Clustering.ipynb)

@@ -21,3 +21,5 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [07_assessment.ipynb](Notebooks/07_assessment.ipynb)
 - [Suspicious Transaction Detection.ipynb](Notebooks/Suspicious%20Transaction%20Detection.ipynb)
 - [Clustering.ipynb](Notebooks/Clustering.ipynb)
+- [ensembleLearning.ipynb](Notebooks/ensembleLearning.ipynb)
+- [Association_mining_lab.ipynb](Notebooks/Association_mining_lab.ipynb)

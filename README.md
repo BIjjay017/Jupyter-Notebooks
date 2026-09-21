@@ -25,3 +25,5 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [Association_mining_lab.ipynb](Notebooks/Association_mining_lab.ipynb)
 - [Day 7 KNN.ipynb](Notebooks/Day%207%20KNN.ipynb)
 - [Day 6 Logistic Regression.ipynb](Notebooks/Day%206%20Logistic%20Regression.ipynb)
+- [Data Warehouse Lab.ipynb](Notebooks/Data%20Warehouse%20Lab.ipynb)
+- [musicRocommendationSystem.ipynb](Notebooks/musicRocommendationSystem.ipynb)

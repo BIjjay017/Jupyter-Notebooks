@@ -27,3 +27,5 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [Day 6 Logistic Regression.ipynb](Notebooks/Day%206%20Logistic%20Regression.ipynb)
 - [Data Warehouse Lab.ipynb](Notebooks/Data%20Warehouse%20Lab.ipynb)
 - [musicRocommendationSystem.ipynb](Notebooks/musicRocommendationSystem.ipynb)
+- [Project on Amazon Dataset.ipynb](Notebooks/Project%20on%20Amazon%20Dataset.ipynb)
+- [Predict Flight Price.ipynb](Notebooks/Predict%20Flight%20Price.ipynb)

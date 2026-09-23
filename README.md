@@ -29,3 +29,5 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [musicRocommendationSystem.ipynb](Notebooks/musicRocommendationSystem.ipynb)
 - [Project on Amazon Dataset.ipynb](Notebooks/Project%20on%20Amazon%20Dataset.ipynb)
 - [Predict Flight Price.ipynb](Notebooks/Predict%20Flight%20Price.ipynb)
+- [Flights_EDA.ipynb](Notebooks/Flights_EDA.ipynb)
+- [screenTime.ipynb](Notebooks/screenTime.ipynb)

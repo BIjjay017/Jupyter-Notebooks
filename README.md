@@ -31,3 +31,4 @@ This repository contains some of the notebooks that i have tried and tested thro
 - [Predict Flight Price.ipynb](Notebooks/Predict%20Flight%20Price.ipynb)
 - [Flights_EDA.ipynb](Notebooks/Flights_EDA.ipynb)
 - [screenTime.ipynb](Notebooks/screenTime.ipynb)
+- [visualization_list_class.ipynb](Notebooks/visualization_list_class.ipynb)
